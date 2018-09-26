@@ -30,12 +30,7 @@ public class EmployeeRunner {
                 + two.getDepartment() + "\t\t" + two.getPosition());
         System.out.println(three.getName() + "\t" + three.getId() + "\t\t"
                 + three.getDepartment() + "\t" + three.getPosition());
-                
-        
-        
-        
-       
-       
+   
     }
 
 }
