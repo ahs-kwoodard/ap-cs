@@ -1,6 +1,6 @@
 /**
  * Kai'lani Woodard
- * CH3PC3 - Retail Item
+ * CH3PC3 - Retail Item Demo
  * Programming II - AP CS
  * 10-3-2018
  */
